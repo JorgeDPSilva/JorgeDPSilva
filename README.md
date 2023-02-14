@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi There, I am Jorge Silva !👏🏼
 
-<!--
-**JorgeDPSilva/JorgeDPSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a finishing my degree in Computer Science at the @ Universidade do Minho.🎓
 
-Here are some ideas to get you started:
+My favourite language is SQL although it may not seem like it 😅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDPSilva)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeDPSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+<li>
+<p>Find me here:</p>
+
+<div>  
+  <a href = "https://www.linkedin.com/in/jorgedpsilvaa/">
+    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+  </li>
