@@ -1,8 +1,8 @@
 # Hi There, I'm Jorge Silva !👏🏼
 
-I'm finishing my degree in Computer Science at the @ Universidade do Minho.🎓
+I'm Junior Software Developer, I finished my degree in Computer Science this year at the @ Universidade do Minho 🎓 and I'm looking for new opportunities 🔎
 
-I am very interested in databases and the language I like the most is SQL 👨‍💻
+I'm very interested in Back-End development and Database 👨‍💻
 
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDPSilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
